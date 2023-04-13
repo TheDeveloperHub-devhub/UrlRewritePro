@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
+    <acl>
+        <resources>
+            <resource id="Magento_Backend::admin">
+                <resource id="DeveloperHub_Core::menu" title="DeveloperHub Core Menu" sortOrder="20" />
+                    <resource id="DeveloperHub_UrlRewritePro::developerhub" title="DeveloperHub" sortOrder="10" />
+                    <resource id="DeveloperHub_UrlRewritePro::url_rewrite" title="DeveloperHub Url Rewrite Pro" sortOrder="20" />
+            </resource>
+        </resources>
+    </acl>
+</config>
