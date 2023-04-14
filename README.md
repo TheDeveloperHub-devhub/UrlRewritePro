@@ -10,7 +10,7 @@
 
 1. Please run the following command
 ```shell
-composer require developerhub/url-rewrite-pro
+composer require devhub/url-rewrite-pro
 ```
 
 2. Update the composer if required
