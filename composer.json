@@ -1,9 +1,9 @@
 {
-    "name": "developerhub/url-rewrite-pro",
+    "name": "devhub/url-rewrite-pro",
     "description": "By using this extension, vendor(s) will be able to generate URL rewrites for Products, Categories and Stores.",
     "require": {
         "php": ">=7.1.0",
-        "developerhub/core": "1.0.*"
+        "devhub/core": "1.0.*"
     },
     "type": "magento2-module",
     "version": "1.0.0",
